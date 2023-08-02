@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6cc7539613a5fe6439b00839a6f5dac8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - PointerPosition: {instanceID: 0}
+  - ADaxis: {fileID: -9173666065255081416, guid: 3226c64d069f5114aa02358401a18bc8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
